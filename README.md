@@ -23,4 +23,4 @@ Our staff will assist you with the storage process and provide any necessary gui
 Enjoy the peace of mind knowing that your belongings are stored safely and can be accessed whenever you need them.
 
 Visit Us
-https://securestoww.netlify.app
+https://securestoww.netlify.app 
